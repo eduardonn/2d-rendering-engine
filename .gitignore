@@ -1,0 +1,20 @@
+# Heavy documentation files
+dependencies/glm/doc
+
+# Binaries
+**/bin/
+bin-int/
+
+# Config files
+**.ini
+
+# Log files
+**.log
+
+# Visual Studio files and folder
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+**.csproj
